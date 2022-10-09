@@ -94,7 +94,7 @@ function App() {
 
   return (
     <div className='App'>
-      <h1>Magic Match</h1>
+      <h1>Magic Match 1</h1>
       <button onClick={shuffleCards}>New Game</button>
       <div>Counter: {counter}</div>
       <div className='card-grid'>
