@@ -94,8 +94,8 @@ function App() {
 
   return (
     <div className='App'>
-      <h1>Magic Match</h1>
-      <button onClick={shuffleCards}>New Game</button>
+      <h1>Magic Match 1</h1>
+      <button onClick={shuffleCards}>New Game 2</button>
       <div>Counter: {counter}</div>
       <div className='card-grid'>
         {cards.map((card) => (
